@@ -12,6 +12,7 @@ Implementation of PH-Mamba.
 
 ## Details:
 [mzusman/mamba](https://github.com/mzusman/mamba/tree/chunked_mamba) provides the CUDA code which can prefill state to Mamba SSM. Thank you so much!
+
 The official says this feature is on the way, and we hope that day comes soon.
 
 

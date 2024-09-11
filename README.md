@@ -10,7 +10,7 @@ Implementation of PH-Mamba.
 - causal-conv1d 1.0.0
 - mamba-ssm from mzusman/mamba (2.2.2)
 
-## Details:
+## Details
 [mzusman/mamba](https://github.com/mzusman/mamba/tree/chunked_mamba) provides the CUDA code which can prefill state to Mamba SSM. Thank you so much!
 
 The official says this feature is on the way, and we hope that day comes soon.

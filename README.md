@@ -1,5 +1,7 @@
 # PH-Mamba
 Implementation of PH-Mamba.
+
+The project structure is the same as [Mamba-UNet](https://github.com/ziyangwang007/Mamba-UNet/tree/main).
 - ph_mamba.py: main network structure.
 - mamba_sys.py: VMamba-based component.
 - css_module.py: CSS(Coarse Segmentation aSsistance, CSA in our paper) related function.
